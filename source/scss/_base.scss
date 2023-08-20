@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@400;500&display=swap');
+@import url("https://fonts.googleapis.com/css2?family=Montserrat:wght@400;500&display=swap");
 
 * {
   margin: 0;
@@ -16,7 +16,7 @@ body {
 
 a {
   text-decoration: none;
-  transition: .4s;
+  transition: 0.4s;
 }
 
 ul {
@@ -70,7 +70,7 @@ svg {
   font-size: 14px;
   font-weight: 500;
   color: $white;
-  transition: .4s;
+  transition: 0.4s;
   &:hover {
     border-color: $primary;
     background-color: $primary;
